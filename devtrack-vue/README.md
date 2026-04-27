@@ -12,14 +12,14 @@ Projeto desenvolvido com Vue.js 3 para gerenciamento de estudos e projetos.
 ##  Como rodar o projeto
 
 ### 1. Instalar dependências
-```bash
+bash
 npm install
-```
+
 
 ### 2. Rodar o servidor
-```bash
+bash
 npm run dev
-```
+
 
 ### 3. Acessar
 Acesse o LocalHost
