@@ -1,15 +1,15 @@
-# DevTrack 🚀
+# DevTrack 
 
 Projeto desenvolvido com Vue.js 3 para gerenciamento de estudos e projetos.
 
-## 📦 Tecnologias
+##  Tecnologias
 - Vue 3
 - Vite
 - Pinia
 - Vue Router
 - Axios
 
-## ▶️ Como rodar o projeto
+##  Como rodar o projeto
 
 ### 1. Instalar dependências
 ```bash
@@ -22,7 +22,7 @@ npm run dev
 ```
 
 ### 3. Acessar
-http://localhost:5173
+Acesse o LocalHost
 
 ## 📁 Estrutura
 - src/views → páginas
