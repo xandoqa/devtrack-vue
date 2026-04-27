@@ -24,10 +24,10 @@ npm run dev
 ### 3. Acessar
 Acesse o LocalHost
 
-## 📁 Estrutura
+##  Estrutura
 - src/views → páginas
 - src/router → rotas
 - src/store → estado global (expandível)
 
-## 💡 Objetivo
+##  Objetivo
 Projeto para portfólio com foco em boas práticas de frontend moderno.
